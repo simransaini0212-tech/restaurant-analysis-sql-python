@@ -37,7 +37,7 @@ This project evaluates restaurant performance and operational dynamics to drive 
 ## Tools & Technologies
 
 - SQL  (Common table analysis, Filtering, Joins)
-- Python (Pandas,Matplotlib,Seaborn,SciPy)
+- Python (Pandas,Matplotlib,Seaborn)
 - Github
 
 
