@@ -7,6 +7,7 @@
 - [Tools & Technologies](#tools--technologies)
 - [Research Questions & Key Findings](#research-questions--key-findings)
 - [Final & Reccomendation](#Final--Reccomendation)
+- [Dashboard](#dashboard)
 - [How to Run](#how-to-run)
 - [Author](#author)
 
@@ -52,6 +53,9 @@ This project evaluates restaurant performance and operational dynamics to drive 
 - **Geographical insights**: Certain locations/geographies show higher average order values.
 
 - **Profitability trends**: Some items drive volume but not profit (low-margin bestsellers).
+
+## Dashboard
+![Restaurant sales Dashboard](Images/restaurant dashboard.jpg)
 
 ## Final & Reccomendation
 -**Menu Optimization**
