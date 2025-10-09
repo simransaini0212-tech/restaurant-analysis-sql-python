@@ -55,7 +55,8 @@ This project evaluates restaurant performance and operational dynamics to drive 
 - **Profitability trends**: Some items drive volume but not profit (low-margin bestsellers).
 
 ## Dashboard
-![Restaurant sales Dashboard](images/restaurant dashboard.jpg)
+![Restaurant sales Dashboard](images/restaurant_dashboard.jpg)
+
 
 ## Final & Reccomendation
 -**Menu Optimization**
